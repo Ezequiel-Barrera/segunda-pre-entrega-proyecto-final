@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "timestamp": 1642391319111,
+    "productos": [
+      { "id": 8, "cantidad": 9, "timestamp": 1642379359462 },
+      { "id": 6, "cantidad": 7, "timestamp": 1642379636922 }
+    ]
+  },
+  {
+    "id": 2,
+    "timestamp": 1642391319111,
+    "productos": [{ "id": 6, "cantidad": 8, "timestamp": 1642379390426 }]
+  },
+  {
+    "id": 3,
+    "timestamp": 1642391319111,
+    "productos": [
+      { "id": 3, "cantidad": 4, "timestamp": 1642391026001 },
+      { "id": 8, "cantidad": 2, "timestamp": 1642391037769 }
+    ]
+  }
+]
